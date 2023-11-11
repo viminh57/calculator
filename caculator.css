@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    
+}
+#all{
+    display: flex;
+}
+button{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: rgb(121, 112, 112);
+    color: white;
+    border-radius: 100%;
+    font-size: 30px;
+    
+}
+p{
+    color:white;
+    font-size: 80px;
+    margin-left:20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sign{
+    background-color:orange
+}
+
+body{
+    background-color: black;
+    
+}
